@@ -3,3 +3,4 @@ yfinance
 japanize-matplotlib
 matplotlib
 pandas
+setuptools
